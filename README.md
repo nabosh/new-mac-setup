@@ -1,7 +1,7 @@
 # new-mac-setup
 This is all of the software that I use for a normal day-to-day on a new Mac computer
 
-Menu Bar Management: Dozer;
+Menu Bar Management: Dozer:
 brew install --cask dozer
 
 iState Menus:
